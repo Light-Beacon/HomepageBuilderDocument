@@ -10,6 +10,7 @@ Homepagebuilder 是一个PCL主页构建器框架，从基本的 XAML 或者其�
     :hidden:
 
     quick_start
+    builder/logic/index.rst
     builder/template/index.rst
     builder/modules
     builder/scripts/index.rst
