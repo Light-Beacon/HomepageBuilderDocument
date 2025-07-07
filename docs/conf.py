@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'HomepageBuilder'
-copyright = '2024, Light-Beacon'
+copyright = '2025, Light-Beacon'
 author = 'Light-Beacon'
 release = ''
 
@@ -37,8 +37,8 @@ language = 'zh'
 html_theme = 'furo' #press #sphinx_book_theme #sphinx_wagtail_theme #furo
 
 html_theme_options = {
-    "source_repository": "https://github.com/Light-Beacon/HomepageBuilder",
-    "source_branch": "docs",
+    "source_repository": "https://github.com/Light-Beacon/HomepageBuilderDocument",
+    "source_branch": "main",
     "source_directory": "docs/",
     "navigation_with_keys": True,
     "top_of_page_button": "edit",
