@@ -15,6 +15,14 @@
     
     pip install .
 
+命令补全
+~~~~~~~~~~~~~~~~
+构建器支持 argcomplete 的命令行补全功能，你可以在终端中运行以下命令来安装和启用命令补全:
+
+.. code-block:: shell
+
+    pip install argcomplete
+    eval "$(register-python-argcomplete builder)" 
 
 创建工程
 ----------------
@@ -22,7 +30,7 @@
 
 .. code-block:: shell
 
-    builder initproject
+    builder create
 
 启动
 ----------------
