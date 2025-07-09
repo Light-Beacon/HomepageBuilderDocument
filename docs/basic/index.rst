@@ -7,5 +7,6 @@
     :hidden:
 
     project
+    library
     page
     template

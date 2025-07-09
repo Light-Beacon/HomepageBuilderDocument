@@ -51,7 +51,7 @@
         file_exten:
           - md
           - markdown
-    fill:
+    default:
         background: "{DynamicResource ColorBrush3}"
 
 构件列表
